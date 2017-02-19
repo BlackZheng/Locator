@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Locator</string>
+    <string name="provider">Provider:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="time">Time:</string>
+    <string name="distance_to">Distance to Reference:</string>
+    <string name="reference">Reference Point</string>
+    <string name="location_result">Location Result</string>
+    <string name="save">Save Location</string>
+    <string name="clear">Clear Reference</string>
+    <string name="start_location">Start Location</string>
+    <string name="locating_message">Locating...20 seconds to timeout</string>
+    <string name="timeout_message">Requesting Location Timeout</string>
+</resources>
